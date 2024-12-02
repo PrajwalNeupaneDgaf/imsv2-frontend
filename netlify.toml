@@ -1,5 +1,4 @@
 [[redirects]]
-  # Redirect all traffic to index.html for single-page apps
-  from = "/*"
-  to = "/index.html"
-  
+from="/*"
+to="/index.html"
+status = 200
